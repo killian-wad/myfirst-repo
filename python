@@ -1,5 +1,8 @@
 name = killian
 class = 4
 def my_identification():
+type = major
+
 return f"my name is {name}"
 results= print(my_identification)
+
